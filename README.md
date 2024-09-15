@@ -3,7 +3,7 @@
 Welcome to my first project using SpringBoot Framework, <br>
 as part of my backend learning journey ! 🚀
 
-# About This Project
+# About This Project ℹ
 
 It's very, very simple API that emulates an user database <br>
 where you can perfom all CRUD operations related to the <br>
@@ -11,13 +11,13 @@ managment of those users, like in a platform.
 
 # What did learn from it
 
-## Spring MVC
+## Spring 🍃
 - IocContainer
 - Beans
 - Beans Factory
 - HttpEntity
 
-## annotations
+## Annotations 🏷
 - @GetMapping
 - @PostMapping
 - @PutMapping
